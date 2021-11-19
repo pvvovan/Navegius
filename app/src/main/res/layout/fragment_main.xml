@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.MainFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/imageView"
+        android:src="@drawable/background"
+        android:scaleType="fitXY"
+        android:layout_gravity="left|top" />
+
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Dimension"-->
+        <!--android:id="@+id/buttonTest"-->
+        <!--android:layout_marginBottom="20dp"-->
+        <!--android:layout_marginRight="20dp"-->
+        <!--android:layout_gravity="right|bottom" />-->
+
+    <ImageButton
+        android:text="Straight"
+        android:id="@+id/btnStraightLine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginBottom="170px"
+        android:layout_marginRight="20px"
+        android:layout_gravity="bottom|right"
+        android:src="@drawable/straight_line_selector" />
+
+    <ImageButton
+        android:text="Curve"
+        android:id="@+id/btnCurveLine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginBottom="100px"
+        android:layout_marginRight="20px"
+        android:layout_gravity="bottom|right"
+        android:src="@drawable/curve_line_selector"
+        android:visibility="invisible" />
+
+
+</FrameLayout>

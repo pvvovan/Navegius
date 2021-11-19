@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\pre-dexed\all\release\com.android.support-support-v4-23.1.1_919bafd8923565aa34623a4e6b4c679f9ba1cecf.jar" />
+    </item>
+    <item
+        jar="C:\Users\vpetrov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\pre-dexed\all\release\support-annotations-23.1.1_cc2baf18cff32e0893be07ea2c48553be7a46887.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\pre-dexed\all\release\internal_impl-23.1.1_e8b39a2ad8bfe8f05507665862e6d702d7b61ee4.jar" />
+    </item>
+    <item
+        jar="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\pre-dexed\all\release\com.android.support-appcompat-v7-23.1.1_3c549b324feafb3a60fd860c9bd47b3ba83ee79d.jar" />
+    </item>
+
+</items>

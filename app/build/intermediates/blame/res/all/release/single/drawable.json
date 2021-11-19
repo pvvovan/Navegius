@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_next_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_next_selector.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\freeform.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\freeform.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\implement_off.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\implement_off.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\satellite_green.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\satellite_green.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\parallel_pressed.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\parallel_pressed.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_minus_pressed.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_minus_pressed.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_back_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_back_selector.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\tracktor.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\tracktor.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_next_pressed.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_next_pressed.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_b_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_b_selector.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_next.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_next.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_back_pressed.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_back_pressed.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_plus_pressed.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_plus_pressed.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_back.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_back.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\button_b.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\button_b.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\parallel.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\parallel.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_a_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_a_selector.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_plus.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_plus.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\satellite_red.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\satellite_red.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_minus.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_minus.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_minus_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_minus_selector.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\satellite_yellow.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\satellite_yellow.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\straight_line_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\straight_line_selector.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\btn_plus_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\btn_plus_selector.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\button_a.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\button_a.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\background.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\curve_line_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\curve_line_selector.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\freeform_pressed.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\freeform_pressed.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\implement_on.png",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\implement_on.png"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\a_pressed.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\a_pressed.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\b_pressed.jpg",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\b_pressed.jpg"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\release\\drawable\\implement_selector.xml",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\drawable\\implement_selector.xml"
+    }
+]

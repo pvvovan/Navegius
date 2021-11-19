@@ -1,0 +1,75 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="layout.DimensionsFragment">
+
+    <ImageButton
+        android:text="Curve"
+        android:id="@+id/buttonWidthMinus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginTop="70px"
+        android:layout_marginLeft="200px"
+        android:layout_gravity="left|top"
+        android:src="@drawable/btn_minus_selector" />
+
+    <ImageButton
+        android:text="Curve"
+        android:id="@+id/buttonWidthPlus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginTop="70px"
+        android:layout_marginRight="200px"
+        android:layout_gravity="right|top"
+        android:src="@drawable/btn_plus_selector" />
+
+    <TextView
+        android:layout_width="180dp"
+        android:layout_height="54dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginTop="20px"
+        android:text="Ширина, м"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top"
+        android:textAlignment="center"
+        android:textSize="26dp"
+        android:gravity="center" />
+
+    <TextView
+        android:layout_width="184dp"
+        android:layout_height="61dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginTop="80px"
+        android:text="12.0"
+        android:id="@+id/textViewWidth"
+        android:layout_gravity="center_horizontal|top"
+        android:textAlignment="center"
+        android:textSize="26dp"
+        android:gravity="center_vertical|center" />
+
+    <ImageButton
+        android:text="Straight"
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginBottom="100px"
+        android:layout_marginLeft="20px"
+        android:layout_gravity="bottom|left"
+        android:src="@drawable/btn_back_selector" />
+
+    <ImageButton
+        android:text="Curve"
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginBottom="100px"
+        android:layout_marginRight="20px"
+        android:layout_gravity="bottom|right"
+        android:src="@drawable/btn_next_selector" />
+
+</FrameLayout>

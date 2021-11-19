@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\androidTest\assets"/><source path="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\generated\assets\shaders\androidTest\all\debug"/></dataSet><dataSet config="all"><source path="C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\androidTestAll\assets"/></dataSet></merger>

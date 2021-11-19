@@ -1,0 +1,117 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.pvvovan.Navegius.Agri_GL.GlView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/openGlView"/>
+
+    <ImageButton
+        tools:ignore="ContentDescription"
+        android:id="@+id/buttonZoomOut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginBottom="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_gravity="start|bottom"
+        android:src="@drawable/btn_minus_selector" />
+
+    <ImageButton
+        tools:ignore="ContentDescription"
+        android:id="@+id/buttonA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginBottom="188dp"
+        android:layout_marginEnd="20dp"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/btn_a_selector" />
+
+    <ImageButton
+        tools:ignore="ContentDescription"
+        android:id="@+id/buttonB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginBottom="104dp"
+        android:layout_marginEnd="20dp"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/btn_b_selector" />
+
+    <ImageButton
+        tools:ignore="ContentDescription"
+        android:id="@+id/buttonZoomIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:layout_marginBottom="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_gravity="end|bottom"
+        android:src="@drawable/btn_plus_selector" />
+
+    <ImageView
+        tools:ignore="ContentDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageViewSatellite"
+        android:layout_gravity="start|top"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:src="@drawable/satellite_green"/>
+
+    <TextView
+        android:layout_width="22dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="0"
+        android:id="@+id/textViewSatelliteNumber"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="20dp"
+        android:textColor="@android:color/black"
+        android:gravity="center_horizontal" />
+
+    <ToggleButton
+        android:id="@+id/toggleImplement"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/implement_selector"
+        android:textOn=""
+        android:textOff=""
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_gravity="start|bottom"
+        android:layout_marginBottom="104dp"
+        android:layout_marginStart="20dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="0.0 км/ч"
+        android:id="@+id/textViewSpeed"
+        android:layout_gravity="end|top"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="0.0 га"
+        android:id="@+id/textViewArea"
+        android:layout_gravity="end|top"
+        android:textColor="@android:color/black"
+        android:layout_marginTop="30dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_gravity="center"
+        android:src="@drawable/tracktor" />
+
+
+</FrameLayout>

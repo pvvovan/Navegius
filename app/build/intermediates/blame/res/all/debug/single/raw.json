@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\debug\\raw\\fsonelight",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\raw\\fsonelight"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\debug\\raw\\vsonelight.vert",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\raw\\vsonelight.vert"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\debug\\raw\\vsgrid",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\raw\\vsgrid"
+    },
+    {
+        "merged": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\build\\intermediates\\res\\merged\\all\\debug\\raw\\fslocalaxis",
+        "source": "C:\\adt-bundle-windows-x86_64-20131030\\uart\\wnd\\Navegius\\app\\src\\main\\res\\raw\\fslocalaxis"
+    }
+]

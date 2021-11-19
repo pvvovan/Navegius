@@ -1,0 +1,4 @@
+See file:///C:/adt-bundle-windows-x86_64-20131030/uart/wnd/Navegius/app/build/tmp/linkSerial_c-jniX86DebugAllSharedLibrary/output.txt for all output for linkSerial_c-jniX86DebugAllSharedLibrary.
+linking libserial_c-jni.so successful.
+
+Finished linkSerial_c-jniX86DebugAllSharedLibrary, see full log file:///C:/adt-bundle-windows-x86_64-20131030/uart/wnd/Navegius/app/build/tmp/linkSerial_c-jniX86DebugAllSharedLibrary/output.txt.

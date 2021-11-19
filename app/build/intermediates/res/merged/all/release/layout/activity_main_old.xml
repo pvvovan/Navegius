@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hellojni.MainActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Read"
+        android:id="@+id/buttonRead"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:width="100dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:id="@+id/textViewReceived"
+        android:layout_below="@+id/buttonRead"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:width="500dp"
+        android:height="100dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Write"
+        android:id="@+id/buttonWrite"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/buttonRead"
+        android:layout_alignEnd="@+id/buttonRead"
+        android:width="100dp"
+        android:layout_below="@+id/textViewReceived" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/editTextToSend"
+        android:layout_below="@+id/buttonWrite"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:id="@+id/buttonClose"
+        android:layout_alignTop="@+id/buttonWrite"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Open"
+        android:id="@+id/buttonOpen"
+        android:layout_above="@+id/textViewReceived"
+        android:layout_centerHorizontal="true" />
+
+    <com.example.hellojni.GlView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/openGlView"
+        android:layout_below="@+id/editTextToSend" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TimerTest"
+        android:id="@+id/buttonTimer"
+        android:layout_above="@+id/editTextToSend"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="34dp"
+        android:layout_marginEnd="34dp" />
+
+
+</RelativeLayout>

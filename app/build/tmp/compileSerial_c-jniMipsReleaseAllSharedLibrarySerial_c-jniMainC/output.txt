@@ -1,0 +1,5 @@
+See file:///C:/adt-bundle-windows-x86_64-20131030/uart/wnd/Navegius/app/build/tmp/compileSerial_c-jniMipsReleaseAllSharedLibrarySerial_c-jniMainC/output.txt for all output for compileSerial_c-jniMipsReleaseAllSharedLibrarySerial_c-jniMainC.
+compiling serial_c.c successful.
+clang.exe: warning: optimization flag '-finline-functions' is not supported
+
+Finished compileSerial_c-jniMipsReleaseAllSharedLibrarySerial_c-jniMainC, see full log file:///C:/adt-bundle-windows-x86_64-20131030/uart/wnd/Navegius/app/build/tmp/compileSerial_c-jniMipsReleaseAllSharedLibrarySerial_c-jniMainC/output.txt.

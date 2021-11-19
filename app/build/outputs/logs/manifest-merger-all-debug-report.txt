@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:3:11-41
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:6:20-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:7:3-89
+	android:name
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:7:20-70
+application
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:8:3-28:17
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:12:7-39
+	android:fullBackupContent
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:10:7-40
+	android:allowBackup
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:9:7-34
+	android:icon
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:11:7-41
+receiver#com.pvvovan.Navegius.StartMyActivityAtBootReceiver
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:13:5-19:16
+	android:enabled
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:14:9-31
+	android:permission
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:14:32-94
+	android:name
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:13:15-80
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:15:7-18:23
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:16:9-71
+	android:name
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:16:17-68
+category#android.intent.category.DEFAULT
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:17:9-68
+	android:name
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:17:19-65
+activity#com.example.hellojni.MainActivity
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:20:5-27:16
+	android:label
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:21:15-47
+	android:theme
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:22:15-49
+	android:name
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:20:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:23:7-26:23
+action#android.intent.action.MAIN
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:24:9-61
+	android:name
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:24:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:25:9-69
+	android:name
+		ADDED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml:25:19-66
+uses-sdk
+INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
+		INJECTED from C:\adt-bundle-windows-x86_64-20131030\uart\wnd\Navegius\app\src\main\AndroidManifest.xml
